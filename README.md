@@ -1,8 +1,5 @@
 ### Hola 👋
 
-<!--
-**ogonzalez29/ogonzalez29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Soy un Ingeniero colombiano apasionado por la tecnología. En los últimos años he trabajado en temas de programación con python, nodejs y PHP. Además, tengo experiencia en marketing digital y SEO.
 
 - 🔭 Actualmente estoy trabajando en la creación de mi portafolio y sitio web personal
@@ -11,4 +8,4 @@ Soy un Ingeniero colombiano apasionado por la tecnología. En los últimos años
 - 🤔 Busco ayuda en temas de TDD con Laravel
 - 💬 Puedes pedirme ayuda con OOP y MVC en PHP 
 - 📫 Escríbeme a: oscar.d.gonzalez@gmail.com
--->
+
