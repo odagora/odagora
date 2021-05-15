@@ -11,4 +11,4 @@ I'm a Mechanical Engineer enthusiast with technology. In the last years, I've wo
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogonzalez29&show_icons=true&theme=merko)
 ](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogonzalez29&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogonzalez29&show_icons=true&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
