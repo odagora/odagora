@@ -8,7 +8,11 @@ I'm a Mechanical Engineer enthusiast with technology. In the last years, I've wo
 - 💬 You can ask me for help in OOP and MVC in PHP 
 - 📫 Contact me at: oscar.d.gonzalez@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogonzalez29&show_icons=true&theme=merko)
-](https://github.com/anuraghazra/github-readme-stats)
+**Languages and Tools:**  
+`Laravel` `PHP` `Javascript` `Python` `Nodejs` 
 
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github*
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogonzalez29&show_icons=true&theme=merko)
+](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogonzalez29&show_icons=true&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
