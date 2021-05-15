@@ -8,4 +8,5 @@ I'm a Mechanical Engineer enthusiast with technology. In the last years, I've wo
 - 💬 You can ask me for help in OOP and MVC in PHP 
 - 📫 Contact me at: oscar.d.gonzalez@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogonzalez29)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogonzalez29&show_icons=true&theme=merko)
+](https://github.com/anuraghazra/github-readme-stats)
