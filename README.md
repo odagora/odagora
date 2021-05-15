@@ -5,7 +5,6 @@ I'm a Mechanical Engineer enthusiast with technology. In the last years, I've wo
 - 🔭 I'm currently working in my personal website and portfolio
 - 🌱 I'm currently learning Front-End and Back-End skills 
 - 👯 I'm currently looking to contribute in open source projects
-- 🤔 I'm currently looking for help in TDD with Laravel
 - 💬 You can ask me for help in OOP and MVC in PHP 
 - 📫 Contact me at: oscar.d.gonzalez@gmail.com
 
