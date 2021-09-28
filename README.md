@@ -17,9 +17,9 @@ I'm a Mechanical Engineer enthusiast with technology. In the last years, I've wo
 
 ## 🧐 These are my personal stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogonzalez29&show_icons=true&theme=merko)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odagora&show_icons=true&theme=merko)
 ](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogonzalez29&show_icons=true&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odagora&show_icons=true&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Open for opportunities
 I'm actively looking for opportunities to work collaboratively on great projects. Feel free to [contact me](mailto:oscar.d.gonzalez@gmail.com)
