@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-I'm a Mechanical Engineer enthusiast with technology. In the last years, I've worked in personal projects using python, nodejs and PHP. I also have experience of 5+ years in Digital Marketing and SEO.  
+I'm a Fullstack JavaScript Developer. In the past years, I've worked in personal projects using python, nodejs and Laravel. I also have experience of 5+ years in Digital Marketing and SEO.  
 
 ## 💡 What I'm doing now
 
@@ -11,7 +11,7 @@ I'm a Mechanical Engineer enthusiast with technology. In the last years, I've wo
 - 📫 Contact me at: oscar.d.gonzalez@gmail.com
 
 ## ✍ Languages and tools most used  
-`Laravel` `PHP` `Javascript` `Python` `Nodejs` 
+`Laravel` `PHP` `Javascript` `Python` `Nodejs` `Vuejs` `Bootstrap`
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github*
 
