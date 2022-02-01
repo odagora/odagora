@@ -12,7 +12,7 @@ I'm a Fullstack JavaScript Developer. In the past years, I've worked in personal
 - 📫 Contact me at: oscar.d.gonzalez@gmail.com
 
 ## ✍ Languages and tools most used  
-`Laravel` `PHP` `Javascript` `Python` `Nodejs` `Vuejs` `Bootstrap`
+`Laravel` `PHP` `Javascript` `Python` `Nodejs` `Vuejs` `Bootstrap` `React`
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github*
 
