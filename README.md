@@ -1,7 +1,7 @@
 ## 👋 Hi there
 <img src="https://res.cloudinary.com/dagrstwwf/image/upload/v1634870553/Banner_Github_1_xlo4eg.png">
 
-I'm a Fullstack JavaScript Developer. In the past years, I've worked in personal projects using python, nodejs and Laravel. I also have experience of 5+ years in Digital Marketing and SEO.  
+I'm a Fullstack JavaScript Developer. In the last years, I've been working with JavaScript frameworks as React.js and Next.js.
 
 ## 💡 What I'm doing now
 
