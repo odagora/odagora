@@ -1,18 +1,18 @@
 ## 👋 Hi there
-<img src="https://res.cloudinary.com/dagrstwwf/image/upload/v1634870553/Banner_Github_1_xlo4eg.png">
+<img src="https://res.cloudinary.com/dagrstwwf/image/upload/v1727567540/Github_Canvas_Banner_rxvbww.png">
 
-I'm a Fullstack JavaScript Developer. In the last years, I've been working with JavaScript frameworks as React.js and Next.js.
+I'm a Software Engineer. In recent years, I've been working with JavaScript frameworks such as React.js and Next.js. I've also been working in the AI field, focusing on LangChain, RAGs, and LLMs.
 
 ## 💡 What I'm doing now
 
-- 🔭 I'm currently working in my personal website and portfolio
-- 🌱 I'm currently learning Front-End and Back-End skills 
-- 👯 I'm currently looking to contribute in open source projects
-- 💬 You can ask me for help in OOP and MVC in PHP 
+- 🔭 I'm currently building AI-based apps using LangChain
+- 🌱 I'm improving my skills in Python and LLMs
+- 👯 I'm looking to contribute to open-source projects
+- 💬 Feel free to ask me for help with JavaScript and React
 - 📫 Contact me at: oscar.d.gonzalez@gmail.com
 
 ## ✍ Languages and tools most used  
-`Laravel` `PHP` `Javascript` `Python` `Nodejs` `Vuejs` `Bootstrap` `React`
+`Javascript` `React` `Python` `Nodejs` `Bootstrap` `Laravel` `PHP`  
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github*
 
